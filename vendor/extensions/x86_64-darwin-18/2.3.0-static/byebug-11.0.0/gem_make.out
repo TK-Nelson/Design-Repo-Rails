@@ -1,0 +1,19 @@
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/byebug-11.0.0/ext/byebug
+/Users/tiko/.asdf/installs/ruby/2.3.7/bin/ruby -r ./siteconf20190226-6858-1kdnznr.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20190226-6858-10ci4j5/byebug

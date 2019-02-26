@@ -1,0 +1,15 @@
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/tiko/.asdf/installs/ruby/2.3.7/bin/ruby -r ./siteconf20190226-6858-kasatm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20190226-6858-lgs4sv

@@ -1,0 +1,15 @@
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bindex-0.5.0/ext/bindex
+/Users/tiko/.asdf/installs/ruby/2.3.7/bin/ruby -r ./siteconf20190226-6858-1njfolq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190226-6858-1vs7429/bindex

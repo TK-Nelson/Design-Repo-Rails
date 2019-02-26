@@ -1,0 +1,15 @@
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bootsnap-1.4.1/ext/bootsnap
+/Users/tiko/.asdf/installs/ruby/2.3.7/bin/ruby -r ./siteconf20190226-6858-12p7dts.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bootsnap-1.4.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bootsnap-1.4.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/tiko/src/Gaslight/Designer-Repo-Rails/vendor/gems/bootsnap-1.4.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20190226-6858-1vsct2n/bootsnap
