@@ -51,3 +51,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+  source: 'Gaslight-Designer-Repo'
+  destination: 'public'
+
+  keep_files: [assets]
