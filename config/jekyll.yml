@@ -30,6 +30,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+source: 'Gaslight-Design-Repo'
+destination: 'public'
+
+keep_files: [assets]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
